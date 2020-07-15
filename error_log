@@ -1,0 +1,1 @@
+[30-Jun-2020 14:29:00 UTC] PHP Warning:  dir(/home/actiftpw/public_html/wp-content/upgrade/jetpack.8.6.1-4nhruj/jetpack/modules/pwa/images/): failed to open dir: No such file or directory in /home/actiftpw/public_html/wp-admin/includes/class-wp-filesystem-direct.php on line 572
